@@ -3,7 +3,7 @@ body{
   margin: 0;
   text-align: center;
 
-font-family: 'Merriweather', serif;
+ font-family: 'Merriweather', serif;
 
 }
 h1{
@@ -15,7 +15,6 @@ h1{
   color: #66BFBF;
 }
 h2{
-  font-weight: normal;
 
   font-size: 2.0rem;
   font-family: 'Montserrat', sans-serif;
@@ -27,7 +26,6 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  font-weight: lighter;
 
 }
 
@@ -40,6 +38,7 @@ a:link {
 }
 p{
   line-height: 2;
+  font-size: 1rem;
 }
 
 
@@ -81,7 +80,7 @@ p{
   padding-bottom: 30px;
   background-color: #11999E;
   color: white;
-  font-size: 1.5rem; 
+  font-size: 1.5rem;
   padding: 10px;
 
 }
