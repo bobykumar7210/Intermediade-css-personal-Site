@@ -62,7 +62,6 @@ p{
 }
 
 .footer-link{
-  display: block;
   margin: 20px;
 
 }
@@ -81,7 +80,8 @@ p{
 }
 .middle-container{
 
-  margin-top: 30px
+  margin-top: 30px;
+  margin-bottom: 30px;
 
 }
 .bottom-container{
