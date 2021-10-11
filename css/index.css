@@ -45,7 +45,7 @@ p{
 
 .skill-row{
 
-    width: 50%;
+    width: 60%;
     margin: 50px auto 50px auto;
     text-align: left;
 }
@@ -85,15 +85,16 @@ p{
 
 }
 .bottom-container{
-  width: 50%;
+  width: 60%;
+  margin:auto;
 }
 .profile{
-      width: 50%;
+      width: 60%;
       margin: auto;
 }
 
 .contact-me{
-  width:50%;
+  width:60%;
   margin: auto;
 }
 
