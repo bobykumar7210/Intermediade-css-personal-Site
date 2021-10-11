@@ -68,7 +68,7 @@ p{
 }
 
 .btn{
-  
+
 
 }
 
@@ -83,6 +83,9 @@ p{
 
   margin-top: 30px
 
+}
+.bottom-container{
+  width: 50%;
 }
 .profile{
       width: 50%;
