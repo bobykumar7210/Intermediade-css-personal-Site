@@ -42,9 +42,6 @@ p{
 }
 
 
-.contact-me{
-
-}
 
 .skill-row{
 
@@ -71,21 +68,12 @@ p{
 }
 
 .btn{
-  margin: 0 auto 0 auto;
-  display: block;
-  width: 300px;
-  text-align: center;
-
- padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #11999E;
-  color: white;
-  font-size: 1.5rem;
-  padding: 10px;
+  
 
 }
 
 .top-container{
+  width: 100%;
   background-color: #E4F9F5;
   text-align: center;
   padding-top: 100px;
@@ -96,13 +84,22 @@ p{
   margin-top: 30px
 
 }
+.profile{
+      width: 50%;
+      margin: auto;
+}
+
+.contact-me{
+  width:50%;
+  margin: auto;
+}
 
 .top-cloud{
   position: absolute;
-  right :300px;
+  right :200px;
   top: 50px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 300px;
+  left: 200px;
 }
