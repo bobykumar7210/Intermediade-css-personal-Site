@@ -23,6 +23,10 @@ h2{
 
 
 }
+.programmer{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
 h3{
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
@@ -72,13 +76,13 @@ p{
 
 }
 
-.skills{
-  width: 60% ;
+.skill-heading{
+  width: 60%;
   margin: auto;
 }
 .skill-row{
 
-    width: 100%;
+    width: 60%;
     margin: 50px auto 50px auto;
     text-align: left;
 }
@@ -89,6 +93,7 @@ p{
   margin-right: 30px;
 }
 .skill-2{
+
   width: 25%;
   float:right;
   margin-left: 30px;
