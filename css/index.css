@@ -24,7 +24,8 @@ h2{
 
 }
 .programmer{
-  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-family: 'Sacramento', cursive;
   color: #66BFBF;
 }
 h3{
@@ -93,19 +94,21 @@ p{
   margin-right: 30px;
 }
 .skill-2{
-
   width: 25%;
   float:right;
   margin-left: 30px;
 }
 
-/* .skill-paragraph-1{
-  clear: left;
+ .skill-paragraph-1{
+   padding:  20px;
+
+
 }
 .skill-paragraph-2{
-  clear: right;
-
-} */
+   clear: left;
+  padding: 20px;
+   text-align: right;
+}
 
 .bottom-container{
   width: 60%;
