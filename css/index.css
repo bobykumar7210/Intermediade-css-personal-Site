@@ -47,7 +47,7 @@ p{
 
 
 .top-container{
-  width: 100%;
+
   background-color: #E4F9F5;
   text-align: center;
   padding-top: 100px;
@@ -72,7 +72,9 @@ p{
 
 }
 
-
+.skill{
+  width: 60% ;
+}
 .skill-row{
 
     width: 60%;
